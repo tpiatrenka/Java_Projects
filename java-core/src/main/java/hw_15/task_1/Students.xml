@@ -1,0 +1,20 @@
+<students>
+    <student>
+        <group>1</group>>
+        <name>Kate</name>
+        <surname>Mix</surname>
+        <faculty>AI</faculty>>
+    </student>
+    <student>
+        <group>3</group>>
+        <name>Maks</name>
+        <surname>Morgan</surname>
+        <faculty>AI</faculty>>
+    </student>
+    <student>
+        <group>2</group>>
+        <name>May</name>
+        <surname>Mirror</surname>
+        <faculty>AI</faculty>>
+    </student>
+</students>
