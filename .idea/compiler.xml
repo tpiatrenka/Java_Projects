@@ -6,13 +6,16 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="java-spring" />
         <module name="java-databases" />
+        <module name="hw_24" />
+        <module name="hw_25-json" />
         <module name="java-core" />
-        <module name="demo-spring" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="demo-spring" target="18" />
+      <module name="hw_25" target="18" />
+      <module name="java-spring" target="18" />
       <module name="new-java-spring" target="18" />
       <module name="new-spring" target="18" />
     </bytecodeTargetLevel>
@@ -20,6 +23,8 @@
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="demo-spring" options="-parameters" />
+      <module name="hw_24" options="-parameters" />
+      <module name="hw_25-json" options="-parameters" />
       <module name="java-spring" options="-parameters" />
       <module name="new-spring" options="" />
     </option>

@@ -7,10 +7,12 @@
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/java-spring/java-spring/pom.xml" />
         <option value="$PROJECT_DIR$/new-spring/pom.xml" />
+        <option value="$PROJECT_DIR$/java-spring/hw_25-json/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
       <set>
+        <option value="$PROJECT_DIR$/java-spring/hw_25/pom.xml" />
         <option value="$PROJECT_DIR$/new-java-spring/pom.xml" />
       </set>
     </option>

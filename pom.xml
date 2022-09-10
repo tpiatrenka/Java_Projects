@@ -10,8 +10,10 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>java-databases</module>
-        <module>java-spring</module>
+<!--        <module>java-spring</module>-->
         <module>java-core</module>
+        <module>java-spring/hw_24</module>
+        <module>java-spring/hw_25-json</module>
     </modules>
 
     <properties>
